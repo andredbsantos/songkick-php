@@ -2,7 +2,7 @@
 
 This is currently **under construction**!
 
-I've made this to suit [Tradiio](https://tradiio.com)'s needs, but will probably finish this sometime soon...or maybe not (I dunno yet).
+I've made this to suit **[Tradiio](https://tradiio.com)'s** needs, but will probably finish this sometime soon...or maybe not (I dunno yet).
 
 Powered by [Songkick](http://www.songkick.com/)
 
