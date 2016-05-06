@@ -58,4 +58,4 @@ $client->nextPage(response['pages']);
 
 Copyleft 2016 (No Fucks are given to what you do with this code)
 
-This project is licensed under the **["THE BEER-WARE LICENSE" (Revision 42)](https://en.wikipedia.org/wiki/Beerware)**.
+This project is licensed under the **["THE BEER-WARE LICENSE" (Revision 42)](http://www.cs.trincoll.edu/hfoss/wiki/Chris_Fei:_Beerware_License)**.
