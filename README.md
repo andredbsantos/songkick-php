@@ -46,14 +46,6 @@ $client->artists->getArtists(artistName);
 $client->calendar->getCalendar(artistID);
 ```
 
-## Pagination
-
-You can grab the next page of results using the client:
-
-```php
-$client->nextPage(response['pages']);
-```
-
 ## Copyleft and License :poop:
 
 Copyleft 2016 (No Fucks are given to what you do with this code)
