@@ -2,7 +2,7 @@
     "name": "wildlifechorus/songkick-php",
     "description": "Songkick API client built on top of Guzzle 6",
     "keywords": ["Songkick", "php", "api", "guzzle"],
-    "license": "Apache Version 2",
+    "license": "THE BEER-WARE LICENSE (Revision 42)",
     "authors": [
         {
             "name": "Tiago Pereira",
