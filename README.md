@@ -1,6 +1,7 @@
 # Songkick API client built on top of Guzzle 6
 
-This is currently **under construction**, I've made this to suit [Tradiio](https://tradiio.com)'s needs, but will probably finish this sometime soon...or maybe not (I dunno yet).
+This is currently **under construction**!
+I've made this to suit [Tradiio](https://tradiio.com)'s needs, but will probably finish this sometime soon...or maybe not (I dunno yet).
 
 Powered by [Songkick](http://www.songkick.com/)
 
@@ -15,7 +16,7 @@ $client = new SongkickClient(apiKey);
 
 ```php
 // http://www.songkick.com/developer/artist-search
-// Find artists by name
+// Find artists by name (ex: 'O Quarto Fantasma')
 $client->artists->getArtists(artistName);
 ```
 
