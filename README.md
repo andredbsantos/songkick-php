@@ -6,6 +6,22 @@ I've made this to suit **[Tradiio](https://tradiio.com)**'s needs, but will prob
 
 Powered by **[Songkick](http://www.songkick.com/)**
 
+## Install
+
+The recommended way to install is through
+[Composer](http://getcomposer.org).
+
+```bash
+# Install Composer
+curl -sS https://getcomposer.org/installer | php
+```
+
+Next, run the Composer command to install:
+
+```bash
+php composer install
+```
+
 ## Client
 
 ```php
