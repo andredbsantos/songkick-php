@@ -1,0 +1,21 @@
+{
+    "name": "songkick/songkick-php",
+    "description": "Songkick API client built on top of Guzzle 6",
+    "keywords": ["Songkick", "php", "api", "guzzle"],
+    "license": "Apache Version 2",
+    "authors": [
+        {
+            "name": "Tiago Pereira",
+            "homepage": "https://wildlifechorus.github.com/songkick-php"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Songkick\\": ["src"]
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "php": ">= 5.6"
+}
