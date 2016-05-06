@@ -1,6 +1,6 @@
 # Songkick API client built on top of Guzzle 6
 
-This is currently **under construction**!
+This is currently **under construction**! :construction:
 
 I've made this to suit **[Tradiio](https://tradiio.com)**'s needs, but will probably finish this sometime soon...or maybe not (I dunno yet).
 
