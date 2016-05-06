@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Tiago Pereira",
-            "homepage": "https://wildlifechorus.github.com/songkick-php"
+            "homepage": "https://github.com/wildlifechorus/songkick-php"
         }
     ],
     "autoload": {
