@@ -17,7 +17,7 @@ class SongkickClient {
   /** @var SongkickArtist $users */
   public $artists;
 
-  /** @var SongkickArtist $events */
+  /** @var SongkickArtist $calendar */
   public $calendar;
 
   public function __construct($apiKey)
